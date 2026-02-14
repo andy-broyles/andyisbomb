@@ -253,7 +253,7 @@ a { color: inherit; text-decoration: none; }
 
 .footer-note {
   font-style: italic;
-  opacity: 0.5;
+  color: #777;
   font-size: 12px;
 }
 
